@@ -1,0 +1,4 @@
+127.0.0.1
+maple_table
+root
+p@ssw0rd
