@@ -1,4 +1,4 @@
 127.0.0.1
-maple_table
+maple_db
 root
 p@ssw0rd
